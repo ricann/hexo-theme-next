@@ -310,7 +310,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname:
   count: true
 
@@ -318,7 +318,7 @@ disqus:
 #hypercomments_id:
 
 # Gentie productKey
-#gentie_productKey:
+gentie_productKey: 54611adce574434fa928c60b4361899c
 
 # changyan
 changyan:
