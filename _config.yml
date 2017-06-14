@@ -62,11 +62,11 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  about: user
-  categories: th
-  schedule: calendar
-  tags: tags
   archives: archive
+  tags: tags
+  categories: th
+  about: user
+  schedule: calendar
   sitemap: sitemap
   commonweal: heartbeat
 
